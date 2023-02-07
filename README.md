@@ -14,7 +14,7 @@ Some screenshots:
 ![Simulator Screen Shot - iPhone 14 Plus - 2023-01-30 at 22 33 24](https://user-images.githubusercontent.com/11380960/215582638-94be7b36-169d-4c33-a02f-85e15e028f6e.png)
 
 
-A small video of the gameplay:
+A small video:
 
 https://user-images.githubusercontent.com/11380960/215576990-91584e5a-7336-468a-bd6d-89f6b99acf7a.MP4
 
